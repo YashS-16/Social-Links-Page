@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -25,11 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![]("C:\Users\Yash Sangale\OneDrive\Pictures\Screenshots\Blog Card.png")
+<img width="1433" height="899" alt="Screenshot 2025-07-31 120732" src="https://github.com/user-attachments/assets/85d7e55e-192f-4067-a5f8-6979002244f7" />
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/YashS-16/Social-Links-Page)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
