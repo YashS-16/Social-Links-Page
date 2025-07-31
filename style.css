@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+.attribution { font-size: 11px; text-align: center; display: block; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a:hover { color: hsl(0, 0%, 100%); }
+
+body{
+    margin: 0;
+    background-color: hsl(0, 0%, 8%);
+    font-family: "Montserrat", sans-serif;
+    color: hsl(0, 0%, 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wrapper {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+    background-color: hsl(0, 0%, 12%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+    height: 575px;
+    border-radius: 15px;
+}
+.overview{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0.5rem 0;
+    padding: 0.5rem 1rem;
+}
+.overview img,
+.overview h2,
+.overview h5{
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+}
+.overview p{
+    font-size: 14px;
+    padding-top: 10px;
+}
+ .socials-link a{
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+    padding: 9px;
+    border-radius: 7px;
+}
+
+.socials-link a:hover{
+    padding: 11px;
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+    /* hsl(0, 0%, 12%) */
+}
+.socials-link{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: 700;
+}
+
+.overview .avatar{
+    width: 35%;
+    border-radius: 50%;
+    padding-bottom: 15px;
+
+}
+
+.overview h5{
+    color: hsl(75, 94%, 57%);
+}
+footer{
+    margin-top: auto;
+    padding: 1rem 0;
+    font-size: 11px;
+    text-align: center;
+    width: 100%
+}
